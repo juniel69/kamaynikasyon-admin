@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+}
+
+.main-panel {
+  flex-grow: 1;
+  margin-left: 250px;
+}
